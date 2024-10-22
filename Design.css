@@ -1,0 +1,20 @@
+body{
+    background-color: blue;
+    color: blanchedalmond;
+}
+.nav{
+    background-color: aliceblue;
+    color: red;
+}
+.nav ul {
+    background-color: black;
+    color: aqua;
+}
+.nav ul a{
+    background-color: blue;
+    color: azure;
+}
+.nav ul a :hover{
+    background-color: black;
+    color: bisque;
+}
